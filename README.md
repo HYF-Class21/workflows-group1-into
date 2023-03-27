@@ -10,6 +10,6 @@ better in coding.
 ## Get to know us
 
 - Mervat
-- Neha
+- [Neha](groupone/neha.md)
 - Juan
 - [Marina](groupone/marina.md)
