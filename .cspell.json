@@ -1,7 +1,15 @@
 {
   "language": "en",
-  "words": ["HackYourFutureBelgium", "HackYourFuture", "Mervat",
-"Juan", "Neha", "groupone", "Nepo", "giraf"],
+  "words": [
+    "HackYourFutureBelgium",
+    "HackYourFuture",
+    "Mervat",
+    "Juan",
+    "Neha",
+    "groupone",
+    "Nepo",
+    "giraf"
+  ],
   "ignorePaths": [
     "node_modules/**",
     "package.json",
