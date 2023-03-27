@@ -1,7 +1,7 @@
 # Hello there
 
 My name is Marina. And I've just started my way in coding. It seems really
-intrasting and challenging for me.
+interesting and challenging for me.
 
 ---
 
@@ -9,11 +9,11 @@ intrasting and challenging for me.
 
 - music
 - reading
-- travelling
+- traveling
 - mind-breakers
 
 ---
 
-Here I've decided to poot some fanny image :smirk:
+Here I've decided to put some fanny image :smirk:
 
-![Giraf on the tree.](img/giraf.jpg)
+![Giraffe on the tree.](img/giraf.jpg)
