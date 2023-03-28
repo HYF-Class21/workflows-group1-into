@@ -17,4 +17,3 @@ better in coding.
 =======
 
 ![Image](img/motivation.png)
-
