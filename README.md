@@ -9,9 +9,11 @@ better in coding.
 
 ## Get to know us
 
-- Mervat
+- [Mervat](groupone/mervat.md)
 - [Neha](groupone/neha.md)
 - [Juan](groupone/juan.md)
 - [Marina](groupone/marina.md)
+
+=======
 
 ![Image](img/motivation.png)
