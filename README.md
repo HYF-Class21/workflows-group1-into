@@ -9,7 +9,10 @@ better in coding.
 
 ## Get to know us
 
-- Mervat
+- [Mervat](groupone/mervat.md)
 - [Neha](groupone/neha.md)
 - Juan
 - [Marina](groupone/marina.md)
+
+_we are looking forward to many hours of fixing erros and wondering why it
+happened_ ![Alt text](groupone/img/coding.jpg)
