@@ -6,6 +6,9 @@ We are all different and all have broad interests, but each of us wants to be
 better in coding.
 
 ---
+**_We are very excited to start our journy in coding and programming_** :dizzy_face:
+
+![Alt text](groupone/img/coding.jpg)
 
 ## Get to know us
 
@@ -16,4 +19,4 @@ better in coding.
 
 =======
 
-![Image](img/motivation.png)
+![image](groupone/img/motivation.png)
