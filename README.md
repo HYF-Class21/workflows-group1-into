@@ -23,4 +23,4 @@ better in coding.
 
 ![image](groupone/img/motivation.png)
 
-![image](groupone\img\learning.png)
+![image](groupone/img/learning.png)
