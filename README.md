@@ -11,8 +11,10 @@ better in coding.
 
 - [Mervat](groupone/mervat.md)
 - [Neha](groupone/neha.md)
-- Juan
+- [Juan](groupone/juan.md)
 - [Marina](groupone/marina.md)
 
-_we are looking forward to many hours of fixing erros and wondering why it
-happened_ ![Alt text](groupone/img/coding.jpg)
+=======
+
+![Image](img/motivation.png)
+
