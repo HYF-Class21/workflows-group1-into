@@ -11,5 +11,7 @@ better in coding.
 
 - Mervat
 - [Neha](groupone/neha.md)
-- Juan
+- [Juan](groupone/juan.md)
 - [Marina](groupone/marina.md)
+
+![Image](img/motivation.png)
